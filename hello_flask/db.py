@@ -1,8 +1,5 @@
 import sqlite3
 
-
-
-
 # Create table
 # cur.execute('''CREATE TABLE stocks
 #                (date text, trans text, symbol text, qty real, price real)''')
