@@ -6,7 +6,7 @@ Repository containing a collection of courses I took or am taking at the univers
 
 An assignment was focused on understanding of a micro web framework and delivering the main idea to fellow students.  
 
-[SQL for Data Science](https://github.com/tatiana-norkina/data-science-portfolio/blob/main/Prediction%20of%20Cross-Selling%20Opportunities%20of%20a%20Bank/main.R)
+[SQL for Data Science](https://github.com/tatiana-norkina/Courses/tree/main/SQL%20for%20Data%20Science)
 
 This course enhanced my previous knowledge in SQL and provided me with some new tools for manipulating databases for data science purposes. 
 Profiling and Analyzing the Yelp Dataset was a final assignment of the course.
