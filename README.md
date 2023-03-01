@@ -4,8 +4,6 @@ Repository containing a collection of courses I took or am taking at the univers
 
 ## Contents
 
-### Machine Learning
-
 [Flask Tutorial]([https://github.com/tatiana-norkina/data-science-portfolio/blob/main/Prediction%20of%20Spotify%20Song%E2%80%99s%20Popularity/main.ipynb)(https://github.com/tatiana-norkina/Courses/tree/main/hello_flask)
 
 An assignment was focused on understanding of a micro web framework and delivering the main idea to fellow students.  
